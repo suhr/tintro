@@ -1,0 +1,14 @@
+name = "tintro"
+defaultTargets = ["textbook"]
+
+[[require]]
+name = "verso"
+git = "https://github.com/leanprover/verso"
+rev = "main"
+
+[[lean_lib]]
+name = "Tintro"
+
+[[lean_exe]]
+name = "textbook"
+root = "TintroMain"
