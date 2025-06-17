@@ -10,6 +10,7 @@ import Tintro.Papers
 
 -- This is a chapter that's included
 import Tintro.Nat
+import Tintro.Ind
 
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -88,7 +89,7 @@ unknown identifier 'y'
 
 {include 1 Tintro.Nat}
 
--- {include 1 Tintro.Ind}
+{include 1 Tintro.Ind}
 
 # Notes
 

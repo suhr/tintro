@@ -9,7 +9,6 @@ open Tintro
 
 set_option pp.rawOnError true
 
-
 #doc (Manual) "Индуктивные построения" =>
 
 Hello world
