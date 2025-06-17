@@ -25,11 +25,11 @@ set_option pp.rawOnError true
 
 
 
-#doc (Manual) "A Textbook" =>
+#doc (Manual) "Введение в типизированную математику" =>
 
-%%%
-authors := ["David Thrane Christiansen"]
-%%%
+-- %%%
+-- authors := ["David Thrane Christiansen"]
+-- %%%
 
 {index}[example]
 Here's an example project showing how to build a certain kind of textbook with Verso.
@@ -86,7 +86,7 @@ Expected error messages must be indicated explicitly:
 unknown identifier 'y'
 ```
 
--- {include 1 Tintro.Nat}
+{include 1 Tintro.Nat}
 
 # Notes
 
