@@ -88,6 +88,8 @@ unknown identifier 'y'
 
 {include 1 Tintro.Nat}
 
+-- {include 1 Tintro.Ind}
+
 # Notes
 
 Use {lean}`margin` to create a marginal note.{margin}[Marginal notes should be used like footnotes.]
